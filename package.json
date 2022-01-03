@@ -1,0 +1,8 @@
+{
+  "name": "weatherapp-nodejs",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "cors": "^2.8.5"
+  }
+}
